@@ -1,10 +1,9 @@
 package org.example;
 
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-import static junit.framework.Assert.assertEquals;
-
+import static org.junit.Assert.assertEquals;
 
 public class AppTest {
     App app = new App();
